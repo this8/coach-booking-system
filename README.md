@@ -1,2 +1,2 @@
-# coach-booking-system
-A coach booking system for Europe Bus
+# Coach Booking System
+A coach booking system for Europe Bus using PHP
